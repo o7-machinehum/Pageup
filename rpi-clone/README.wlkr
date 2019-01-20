@@ -1,0 +1,3 @@
+#!/bin/bash
+
+sudo rpi-clone sda -f
